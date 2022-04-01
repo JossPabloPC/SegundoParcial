@@ -1,0 +1,23 @@
+﻿  Recocido_simulado.cpp
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(6,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(24,154): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(43,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(43,93): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(102,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(102,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(129,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(129,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(157,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(157,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(158,70): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(163,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(204,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(204,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(205,72): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(251,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(251,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(252,72): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(257,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(266,20): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\Recocido_simulado\Recocido_simulado.cpp(273,22): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+  Recocido_simulado.vcxproj -> C:\Users\Pablo\Documents\Universidad\IA\SegundoParcial\Recocido_simulado\x64\Debug\Recocido_simulado.exe
